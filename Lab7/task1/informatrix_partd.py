@@ -1,10 +1,3 @@
-#63
-n_63 = int(input())
-arr_63 = list(map(int, input().split()))
-for i in range(n_63):
-    if i % 2 == 0:
-        print(arr_63[i], end=" ")
-print()
 
 #64
 n_64 = int(input())
